@@ -1,4 +1,4 @@
-"# Grocery Items Calculator" 
+# Grocery Items Calculator 
 
 ## Code Description
 
